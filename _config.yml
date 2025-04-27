@@ -297,6 +297,8 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - justfile
+  - blogroll.txt
 
 plugins:
   - jekyll-paginate
